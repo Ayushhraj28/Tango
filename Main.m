@@ -16,7 +16,7 @@ while true
                 currentColor = brick.ColorCode(2);  
                 dist = brick.UltrasonicDist(3);   
                
-                if currentColor == 4 % Chnage This - Red
+                if currentColor == 5 
                     brick.StopMotor('AD');
                     pause(1);
 
@@ -25,7 +25,7 @@ while true
                     continue;  
                 
             
-                elseif currentColor == 6 % Chnage This - Blue
+                elseif currentColor == 2 
                     brick.StopMotor('AD');
 
                     for i = 1:2
@@ -36,7 +36,7 @@ while true
                     break; 
                 
               
-                elseif currentColor == 3 % Change This - Green
+                elseif currentColor == 3 
                     brick.StopMotor('AD');
                     
 		     for i = 1:3
