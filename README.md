@@ -1,3 +1,4 @@
+
 # Project TANGO: Autonomous Assistive Tank <br/>
 ### By: Ayush Raj, Jason Naicker, Adrian Aguayo, Yousef El Shenawy
  
@@ -30,3 +31,7 @@ Yousef El Shenawy<br/>
 <br/>
 
 TANGO is more than a project; it’s our commitment to harnessing technology for accessibility and independence. Follow our journey as we continue to refine and advance TANGO's capabilities!
+
+Past Ongoing Pictures:
+![Image](https://github.com/user-attachments/assets/04edd006-c0ae-4730-affb-795bcc77e258)
+![Imagje](https://github.com/user-attachments/assets/a1a9b3a4-ed85-401e-82c9-f8d998cd83d4)
