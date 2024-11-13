@@ -32,6 +32,9 @@ Yousef El Shenawy<br/>
 
 TANGO is more than a project; it’s our commitment to harnessing technology for accessibility and independence. Follow our journey as we continue to refine and advance TANGO's capabilities!
 
-Past Ongoing Pictures:
-![Image](https://github.com/user-attachments/assets/04edd006-c0ae-4730-affb-795bcc77e258)
+Ongoing Pictures:
+
 ![Imagje](https://github.com/user-attachments/assets/a1a9b3a4-ed85-401e-82c9-f8d998cd83d4)
+![Image](https://github.com/user-attachments/assets/04edd006-c0ae-4730-affb-795bcc77e258)
+![IMG_8433](https://github.com/user-attachments/assets/be023eb5-689f-4b74-aeda-ab31f98e4cf1)
+
