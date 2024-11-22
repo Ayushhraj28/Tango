@@ -18,7 +18,7 @@ while true
 
                 disp(currentColor);
                
-                if currentColor == 4 % Chnage This - Red
+                if currentColor == 4 
                     brick.StopMotor('AD');
                     pause(1);
 
@@ -27,13 +27,13 @@ while true
                     continue;  
                 
             
-                elseif currentColor == 6 % Chnage This - Blue
+                elseif currentColor == 6 
                     brick.StopMotor('AD');
                     beepTwice(brick);
                     break; 
                 
               
-                elseif currentColor == 3 % Change This - Green
+                elseif currentColor == 3 
                     brick.StopMotor('AD');
                     beepThreeTimes(brick);
 
